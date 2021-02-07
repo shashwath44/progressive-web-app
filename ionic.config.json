@@ -1,0 +1,8 @@
+{
+  "name": "progressiveWebApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "08f7e943"
+}
